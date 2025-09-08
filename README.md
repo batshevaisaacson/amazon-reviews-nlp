@@ -23,4 +23,4 @@ This project was developed as part of a **Data Science Capstone course**.
 
 ### Files / Links  
 - [Python Script](amazon_reviews_nlp.py)  
-- [Presentation PDF](Amazon_Reviews_Capstone.pdf)  
+- [Presentation PDF](amazon_reviews_presentation.pdf)  
