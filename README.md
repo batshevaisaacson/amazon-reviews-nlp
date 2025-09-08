@@ -22,5 +22,5 @@ This project was developed as part of a **Data Science Capstone course**.
 - Findings directly informed **practical recommendations for sellers**  
 
 ### Files / Links  
-- [Python Script](amazon_reviews.py)  
+- [Python Script](amazon_reviews_nlp.py)  
 - [Presentation PDF](Amazon_Reviews_Capstone.pdf)  
